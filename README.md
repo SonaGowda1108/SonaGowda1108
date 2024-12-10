@@ -26,7 +26,10 @@ I’m passionate about transforming data into actionable insights and using anal
 </a>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>  
-</p>
+
+
+  </p>
+
 
 
 ### **Data Management**
@@ -50,8 +53,9 @@ I’m passionate about transforming data into actionable insights and using anal
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" alt="tableau" width="40" height="40"/>
   </a>
-    <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
+<a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Power BI" width="50" height="50" style="margin: 10px; border-radius: 8px; box-shadow: 0px 4px 6px rgba(0, 0, 0, 0.2);"/>
+</a>
 </p>
 
 ---
