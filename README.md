@@ -100,7 +100,7 @@ I’m passionate about transforming data into actionable insights and using anal
 
 ## 📝 **Certifications**
 
-- **Data Analytics with Python** - [Link to Certification](URL)
+- **Data Analytics by Cisco Networking Academy** 
 - **Power BI Fundamentals** - [Link to Certification](URL)
 - **SQL for Data Analysis** - [Link to Certification](URL)
 
