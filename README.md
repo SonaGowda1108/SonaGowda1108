@@ -81,6 +81,8 @@ I’m passionate about transforming data into actionable insights and using anal
 <a href="https://linkedin.com/in/sonagowda1108" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sonagowda1108" height="30" width="40" /></a>
 <a href="https://instagram.com/_sonagowda_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_sonagowda_" height="30" width="40" /></a>
 </p>
+
+  ---
   
 ## 📂 **Projects**
 
@@ -103,9 +105,13 @@ I’m passionate about transforming data into actionable insights and using anal
 ## 🎯 **Goals:**
   To become a proficient Data Analyst and contribute to data-driven decision-making in real-world applications.
 
+  ---
+
 ## 💬 **Let's Connect!**
 
 Feel free to reach out to me for any collaborations, opportunities, or just to chat about data analytics! I'm always open to learning and growing through new experiences.
+
+---
 
 ## 💡 Fun Fact  
 I believe in the power of continuous learning and aim to bridge the gap between technology and impactful solutions!  
